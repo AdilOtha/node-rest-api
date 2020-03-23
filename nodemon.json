@@ -1,6 +1,0 @@
-{
-    "env": {
-        "MONGO_PSW": "bw0iHxrQGQRkNBRU",
-        "JWT_KEY": "secret"
-    }
-}
